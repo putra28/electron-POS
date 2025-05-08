@@ -1,0 +1,16 @@
+# Laravel ignore
+Ujikom-POS/vendor
+Ujikom-POS/node_modules
+Ujikom-POS/.env
+Ujikom-POS/.phpunit.result.cache
+Ujikom-POS/public/storage
+Ujikom-POS/storage/*.key
+Ujikom-POS/.idea
+Ujikom-POS/.vscode
+Ujikom-POS/Homestead.json
+Ujikom-POS/Homestead.yaml
+Ujikom-POS/npm-debug.log
+Ujikom-POS/yarn-error.log
+
+# Electron ignore
+electron-POS/node_modules
