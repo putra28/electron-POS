@@ -133,6 +133,14 @@ Electron akan secara otomatis menjalankan Laravel menggunakan perintah php artis
 ```
 
 ## 📄 Catatan
+Akun Login:
+```bash
+Username:081210295730
+Password:admin
+
+Username:08123456789
+Password:kasir
+```
 - node_modules diabaikan melalui .gitignore, jadi pastikan jalankan npm install di electron-app.
 - Proyek ini dikembangkan untuk keperluan internal/UKK dan tidak untuk produksi langsung.
 - Silakan modifikasi Ujikom-POS/config.api.php agar sesuai dengan URL API yang kamu jalankan secara lokal.
